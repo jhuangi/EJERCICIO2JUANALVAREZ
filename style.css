@@ -1,0 +1,40 @@
+.verde{
+color: green;
+text-decoration: underline
+
+}
+
+.enemigo{
+color: red;
+
+}
+
+a{
+    color: #000;
+  }
+  a:link{
+    text-decoration: none;
+  }
+  a:hover {
+    color: #1717FF;
+    cursor: pointer;
+
+}
+.entiendo{
+    text-decoration: underline overline;
+
+}
+
+.derrotarle{
+font-size: 50px;
+
+}
+
+.tambien{
+color: blue;
+
+}
+
+.quiero{
+    color: red;
+}
